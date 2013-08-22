@@ -1,0 +1,21 @@
+{
+    "name": "matuck/XBMCapi",
+    "type": "library",
+    "description":  "Interact with XBMC json rpc api",
+    "keywords": ["XBMC"],
+    "license": "GPL-v3",
+    "homepage": "https://github.com/matuck/XBMCapi.git",
+    "authors": [
+        {
+            "name": "Mitch Tuck",
+            "email": "matuck@matuck.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-0": { "matuck\\XBMCapi\\": "" }
+    },
+    "target-dir": "matuck/XBMCapi"
+}
