@@ -30,7 +30,7 @@ $params = array(
 
 try {
     $client = new TCPClient($params);
-} catch (XBMC_RPC_ConnectionException $e) {
+} catch (ConnectionException $e) {
     die($e->getMessage());
 }
 
