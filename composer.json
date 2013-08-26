@@ -1,5 +1,5 @@
 {
-    "name": "matuck/XBMCapi",
+    "name": "matuck/xbmcapi",
     "type": "library",
     "description":  "Interact with XBMC json rpc api",
     "keywords": ["XBMC"],
